@@ -30,7 +30,7 @@ Here is the simplest way to use this class
         $result = checkPassword('123');
     } catch (MultiException $exceptions) {
         foreach ($exceptions->all() as $e) {
-            echo $e->getMessage() . '\n';
+            echo $e->getMessage() . "\n";
         }
     }
 
