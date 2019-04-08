@@ -1,0 +1,21 @@
+{
+    "name": "s-p-ko/multiexception",
+    "description": "Contains the class that implements the concept of multiexception",
+    "type": "library",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Serhiy Kotsyuba",
+            "email": "s-p-ko@ukr.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Spko\\": "lib/"
+        }
+    },
+    "minimum-stability": "stable"
+}
