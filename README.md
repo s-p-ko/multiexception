@@ -1,6 +1,6 @@
 # MultiException
 
-This repository contains the class that implements the concept of multiexception
+Сontains the class that implements the concept or pattern of multiexception
 
 **Basic Usage**
 
