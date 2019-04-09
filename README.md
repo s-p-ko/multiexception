@@ -1,6 +1,6 @@
 # MultiException
 
-Сontains the class that implements the concept or pattern of multiexception
+Сontains the class that implements the concept or pattern of multiexception by Albert Stepantsev
 
 **Basic Usage**
 
